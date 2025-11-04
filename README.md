@@ -111,21 +111,7 @@ Experienced developer passionate about creating **scalable web platforms**, **bl
 
 🎤 **Guest Speaker** - Himasi Design Class (Crypto Enthusiast)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramadani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pramadani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pramadani&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
----
 
 ## 📫 Let's Connect!
 
@@ -134,7 +120,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 - 💼 **LinkedIn:** [Pramadani Firzatullah](https://www.linkedin.com/in/pramadani-firzatullah)
 - 🌐 **Portfolio:** [www.pramadani.site](https://www.pramadani.site)
 - 📧 **Email:** pramadanifirzatullah@gmail.com
-- 📱 **WhatsApp:** +62 812-3359-0282
+
 
 ---
 
