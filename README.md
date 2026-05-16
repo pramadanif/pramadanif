@@ -18,8 +18,7 @@
 const pramadani = {
     location: "Surabaya, Indonesia 🇮🇩",
     timezone: "GMT+7",
-    education: "B.Sc. Applied Informatics Engineering - Airlangga University",
-    gpa: "3.66/4.00 - Cum Laude 🎓",
+    education: "Applied Informatics Engineering - Airlangga University",
     focus: ["Full Stack Development", "Web3 & Blockchain", "DeFi Applications"],
     projectsDelivered: "10+",
     motto: "Building efficient, elegant digital solutions 🎯"
