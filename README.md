@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Bagus Pramadani Firzatullah
+# 👋 Hi, I'm Pramadani Firzatullah
 
 ### 🚀 Award-winning Full Stack & Web3 Developer | 🌏 Based in Surabaya, Indonesia
 
