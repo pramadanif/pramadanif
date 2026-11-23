@@ -32,7 +32,7 @@ Next.js · React · TypeScript · Laravel · PHP · Go · Python · Node · Rust
 Chains: LEZ · EVM · Arbitrum · Solana · Aptos · Sui · Stellar · Celo · Lisk
 
 ### Links
-- Web: [pramadani.site](https://www.pramadani.site)
+- Web: [pramadani.com](https://www.pramadani.com)
 - LinkedIn: [pramadani-firzatullah](https://www.linkedin.com/in/pramadani-firzatullah)
 - Email: pramadanifirzatullah@gmail.com
 
